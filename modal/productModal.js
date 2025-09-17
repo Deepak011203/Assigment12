@@ -8,7 +8,7 @@ const products = [
     },
     {
         id: 2,
-        category: "Electronics",
+        category: "",
         title: "Bluetooth Speaker",
         price: 3500,
         stockAvailable: true,
